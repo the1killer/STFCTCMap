@@ -101,6 +101,21 @@
             "iconSize": [40, 40],
             "iconUrl": "/resource/mycelium-spore.png",
             "className": "mycelium"
+        },
+        "Isogen 1": {
+            "iconSize": [40, 40],
+            "iconUrl": "/resource/raw-isogen-1.png",
+            "className": "isogen1"
+        },
+        "Isogen 2": {
+            "iconSize": [40, 40],
+            "iconUrl": "/resource/raw-isogen-2.png",
+            "className": "isogen2"
+        },
+        "Isogen 3": {
+            "iconSize": [40, 40],
+            "iconUrl": "/resource/raw-isogen-3.png",
+            "className": "isogen3"
         }
     },
     "other_rss": {

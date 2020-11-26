@@ -135,7 +135,7 @@ STFCMap = (function() {
     const systemsRenderer = L.canvas({padding: 0.5, pane:'systems'}); //separate canvas to keep the systems above the paths
     //const myRenderer3 = L.canvas({padding: 0.5, pane:'tooltipPane'}); //unused atm. possibly for labels
     const territoryRenderer = L.canvas({padding: 0.5, pane:'shadowPane'}); //territory renderer
-    let startingCoords = xy(-4679, -426); //the default starting location of the map
+    let startingCoords = xy(-6400, -1600); //the default starting location of the map
     let assetsUrl = './assets'; //default assets folder, if defined will load assets from an external source
     let systemClickEvent; //defaults to popup opener, if this is defined, will fire specified event instead
     let systemsJson; //all the system data to populate the map
@@ -268,13 +268,14 @@ STFCMap = (function() {
         map.getPane('shadowPane').style.zIndex = 225; //territories
         map.getPane('overlayPane').style.zIndex = 250; //travel paths
         map.createPane('pathmarker').style.zIndex = 275; //path icons
+        map.createPane('zonelabel').style.zIndex = 290; //TC zone labels
         map.createPane('systems').style.zIndex = 300; //basic systems
         map.createPane('hubsystem').style.zIndex = 325; //hub/capital systems
         map.createPane('hublabel').style.zIndex = 350; //hub/capital system labels
-        map.getPane('markerPane').style.zIndex = 375; //rss icons, hostile icons
-        map.createPane('highlight').style.zIndex = 400; //armada highlight circles, other misc gb highlights
+        // map.getPane('markerPane').style.zIndex = 375; //rss icons, hostile icons
+        // map.createPane('highlight').style.zIndex = 400; //armada highlight circles, other misc gb highlights
         map.getPane('tooltipPane').style.zIndex = 425; //basic system labels, armada strength labels
-        map.createPane('events').style.zIndex = 450; //event tagged icons, armada icons
+        // map.createPane('events').style.zIndex = 450; //event tagged icons, armada icons
         map.createPane('custommarker').style.zIndex = 500; //user custom markers
         map.getPane('popupPane').style.zIndex = 700; //popup marker (system info panel)
 
@@ -290,6 +291,13 @@ STFCMap = (function() {
             loadFile(territoriesJson, initTerritory);
         }
 
+        map.on('click', function(e){
+            var coord = e.latlng;
+            var lat = coord.lat;
+            var lng = coord.lng;
+            console.log("You clicked the map at latitude: " + lat + " and longitude: " + lng);
+        });
+
     };
     let initTerritory = async function(geoJson) {
         console.log("initTerritory");
@@ -300,7 +308,20 @@ STFCMap = (function() {
                 properties.className = 'territory'; //give the polygon the className for future use
                 properties.pane = 'shadowPane';
                 properties.renderer = territoryRenderer;
-                L.geoJSON(feature, properties).addTo(map); //add the territory to the map
+                var ter = L.geoJSON(feature, properties).addTo(map); //add the territory to the map
+                feature.object = ter;
+                territories[feature.properties.popupContent] = feature
+
+                let labelOptions = {permanent: true, direction: 'center', offset: [0, -2], opacity: null, className: "zone-label"};
+                labelOptions.pane = 'zonelabel';
+                var zoneLabel = properties.popupContent.replace("-territory","");
+                if(properties.attackDay != undefined) {
+                    var time = moment().utc().day(properties.attackDay).hour(properties.attackHour).minute(0)
+                    let format = "ddd ha"
+                    zoneLabel += "<br/><span id='time-"+zoneLabel+"' class='time'>"+time.local().format(format)+"</span>";
+                }
+                // zoneLabel += "<br/>Sun 7pm"
+                ter.bindTooltip(zoneLabel,labelOptions)
             }
         });
         // let swarmCloudUrl = assetsUrl+'/img/swarm-clouds-sm.png';
@@ -341,6 +362,7 @@ STFCMap = (function() {
                         break;
                 }
                 feature.properties.pane = 'overlayPane';
+                feature.properties.weight = 1;
                 feature.properties.renderer = pathRenderer;
                 const path = L.polyline(yx, feature.properties);
                 pathsGroup.push(path);
@@ -631,7 +653,7 @@ STFCMap = (function() {
             "Events": setGroups(layers.events),
         };
         layerControl = L.control.groupedLayers(null, controlLayers, {groupCheckboxes: true, /*exclusiveGroups: ["Mines"]*/});
-        layerControl.addTo(map);
+        // layerControl.addTo(map);
 
         if(typeof STFCUI !== 'undefined') {STFCUI.init(map);} //init the search input
         if(typeof STFCMapEditor !== 'undefined') {STFCMapEditor.init();}
@@ -668,40 +690,45 @@ STFCMap = (function() {
             $(".leaflet-pathmarker-pane").removeClass("fade");
         }
 
-        // if(zoom < 0) {
-        //     //$(".leaflet-marker-pane").addClass("dim");
-        //     if(!isEditor) {
-        //         $(".leaflet-overlay-pane").addClass("fade");
-        //     }
-        // } else if(zoom < 0.25) {
-        //     if(!isEditor) {
-        //         $(".leaflet-overlay-pane").addClass("fade");
-        //     }
-        //     //$(".leaflet-marker-pane").addClass("dim");
-        // } else {
-        //     $(".leaflet-overlay-pane").removeClass("fade");
-        //     //$(".leaflet-marker-pane").removeClass("dim");
-        // }
+        if(zoom < 0) {
+            //$(".leaflet-marker-pane").addClass("dim");
+            if(!isEditor) {
+                $(".leaflet-overlay-pane").addClass("fade");
+            }
+        } else if(zoom < 0) {
+            if(!isEditor) {
+                $(".leaflet-overlay-pane").addClass("fade");
+            }
+            //$(".leaflet-marker-pane").addClass("dim");
+        } else {
+            $(".leaflet-overlay-pane").removeClass("fade");
+            //$(".leaflet-marker-pane").removeClass("dim");
+        }
+        if(zoom < -0.25) {
+            $(".leaflet-zonelabel-pane").addClass("fade");
+        } else {
+            $(".leaflet-zonelabel-pane").removeClass("fade");
+        }
 
-        $(".leaflet-overlay-pane").removeClass("fade");
+        if(zoom < 0.9) {
+            $(".leaflet-tooltip-pane").addClass("fade");
+            $(".arm-label").addClass("fade");
+        } else {
+            $(".leaflet-tooltip-pane").removeClass("fade");
+            $(".arm-label").removeClass("fade");
+        }
 
-        // if(zoom < 0.9) {
-        //     $(".leaflet-tooltip-pane").addClass("fade");
-        //     $(".arm-label").addClass("fade");
-        // } else {
-        //     $(".leaflet-tooltip-pane").removeClass("fade");
-        //     $(".arm-label").removeClass("fade");
-        // }
-
-        $(".leaflet-tooltip-pane").removeClass("fade");
-        $(".arm-label").addClass("fade");
+        // $(".leaflet-overlay-pane").removeClass("fade");
+        // $(".leaflet-tooltip-pane").removeClass("fade");
+        // $(".arm-label").addClass("fade");
     };
     let makeSystemNode = function(sys) {
         let coords = sys.geometry.coordinates;
         let properties = sys.properties;
         let sysName = properties.name;
         let cleaned = cleanName(sysName);
-        let sysLabel = sysName + ' (' + properties.systemLevel + ')';
+        let sysLabel = sysName;
+        if(properties.systemLevel > 0) sysLabel += ' (' + properties.systemLevel + ')';
         let radius = properties.radius !== undefined && properties.radius !== '' ? parseInt(properties.radius) : 1;
         let iconType = properties.icon;
         let node;
@@ -730,7 +757,7 @@ STFCMap = (function() {
             labelOptions.pane = 'hublabel';
         }
 
-        node.bindTooltip(sysLabel, labelOptions);
+        // node.bindTooltip(sysLabel, labelOptions);
         if(!systemClickEvent) {
             //console.log(":bind popup", sysLabel);
             let popupTemplate = isEditor ? null : makeSystemPopup(properties);
@@ -958,12 +985,13 @@ STFCMap = (function() {
     };
     let setAttributions = function(info) {
         let mapLink = "<a href='https://stfcpro.com' title='Star Trek Fleet Command Galaxy Map'>";
-        let discLinkA = "<a href='https://discord.com/invite/fKThyH2' title='STFC Pro Discord'>";
+        // let discLinkA = "<a href='https://discord.com/invite/fKThyH2' title='STFC Pro Discord'>";
+        let discLinkA = "TC Map by The-Killer"
         let close = "</a>";
         let serverInfo = '[16] Baryon'; //info.serverInfo
         let mapName = 'Star Trek Fleet Command Galaxy Map'; //info.mapName
         let author = 'JoeCrash'; //info.author
-        return mapLink + mapName + close + " v" + versionNumber + "<br>" + "By: <strong>" + author + "</strong> - Server: <strong>" + serverInfo + "</strong><br>" + discLinkA + "STFCPro Bot/Map Discord" + close;
+        return mapLink + mapName + close + "<br>" + "By: <strong>" + author + "</strong> - Server: <strong>" + serverInfo + "</strong><br>" + discLinkA + ""
     };
     return { //public interface
         init,

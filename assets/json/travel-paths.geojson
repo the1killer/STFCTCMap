@@ -2,8 +2,8 @@
     "type": "FeatureCollection",
     "name": "travel-paths",
     "bbox": [
-        -6151,
-        -1741,
+        -6903,
+        -2014,
         -2135,
         1571
     ],
@@ -11,25 +11,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "solustatellun",
+                "name": "tolabetatolagamma",
                 "className": ""
             },
             "bbox": [
-                -5381,
-                -1337,
-                -5734,
-                -1327
+                -6030,
+                -1494,
+                -6053,
+                -1504
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5381,
-                        -1337
+                        -6030,
+                        -1494
                     ],
                     [
-                        -5734,
-                        -1327
+                        -6053,
+                        -1504
                     ]
                 ]
             }
@@ -37,25 +37,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "tellunvinland",
+                "name": "tolaalphatolagamma",
                 "className": ""
             },
             "bbox": [
-                -5945,
-                -1291,
-                -5734,
-                -1327
+                -6053,
+                -1504,
+                -6037,
+                -1473
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5945,
-                        -1291
+                        -6053,
+                        -1504
                     ],
                     [
-                        -5734,
-                        -1327
+                        -6037,
+                        -1473
                     ]
                 ]
             }
@@ -63,25 +63,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "takiktellun",
+                "name": "tolaalphatolabeta",
                 "className": ""
             },
             "bbox": [
-                -5734,
-                -1327,
-                -5803,
-                -1558
+                -6037,
+                -1473,
+                -6030,
+                -1494
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5734,
-                        -1327
+                        -6037,
+                        -1473
                     ],
                     [
-                        -5803,
-                        -1558
+                        -6030,
+                        -1494
                     ]
                 ]
             }
@@ -89,25 +89,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "akertellun",
+                "name": "temerialphatemeribeta",
                 "className": ""
             },
             "bbox": [
-                -5940,
-                -1456,
-                -5734,
-                -1327
+                -6096,
+                -1333,
+                -6110,
+                -1377
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5940,
-                        -1456
+                        -6096,
+                        -1333
                     ],
                     [
-                        -5734,
-                        -1327
+                        -6110,
+                        -1377
                     ]
                 ]
             }
@@ -115,25 +115,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "tellunyridia",
+                "name": "adotemeribeta",
                 "className": ""
             },
             "bbox": [
-                -5409,
-                -1475,
-                -5734,
-                -1327
+                -6054,
+                -1342,
+                -6096,
+                -1333
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5409,
-                        -1475
+                        -6054,
+                        -1342
                     ],
                     [
-                        -5734,
-                        -1327
+                        -6096,
+                        -1333
                     ]
                 ]
             }
@@ -141,25 +141,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "maluriatellun",
+                "name": "perimalphatemeribeta",
                 "className": ""
             },
             "bbox": [
-                -5734,
-                -1327,
-                -5861,
-                -956
+                -6096,
+                -1333,
+                -6113,
+                -1250
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5734,
-                        -1327
+                        -6096,
+                        -1333
                     ],
                     [
-                        -5861,
-                        -956
+                        -6113,
+                        -1250
                     ]
                 ]
             }
@@ -167,25 +167,1273 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "murasaki312tellun",
+                "name": "perimalphaperimbeta",
                 "className": ""
             },
             "bbox": [
-                -5599,
+                -6113,
+                -1250,
+                -6154,
+                -1215
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6113,
+                        -1250
+                    ],
+                    [
+                        -6154,
+                        -1215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adiabetatemerialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6110,
+                -1377,
+                -6157,
+                -1437
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6110,
+                        -1377
+                    ],
+                    [
+                        -6157,
+                        -1437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adiaalphaadiabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6157,
+                -1437,
+                -6133,
+                -1510
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6157,
+                        -1437
+                    ],
+                    [
+                        -6133,
+                        -1510
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "criosalphacriosbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6076,
+                -1660,
+                -6135,
+                -1596
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6076,
+                        -1660
+                    ],
+                    [
+                        -6135,
+                        -1596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adiaalphacriosbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6133,
+                -1510,
+                -6135,
+                -1596
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6133,
+                        -1510
+                    ],
+                    [
+                        -6135,
+                        -1596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corvabetacriosalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6076,
+                -1660,
+                -6016,
+                -1694
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6076,
+                        -1660
+                    ],
+                    [
+                        -6016,
+                        -1694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corvaalphacorvabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6016,
+                -1694,
+                -5986,
+                -1645
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6016,
+                        -1694
+                    ],
+                    [
+                        -5986,
+                        -1645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corvaalphacorvagamma",
+                "className": ""
+            },
+            "bbox": [
+                -5986,
+                -1645,
+                -5954,
+                -1695
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5986,
+                        -1645
+                    ],
+                    [
+                        -5954,
+                        -1695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corvabetacorvagamma",
+                "className": ""
+            },
+            "bbox": [
+                -5954,
+                -1695,
+                -6016,
+                -1694
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5954,
+                        -1695
+                    ],
+                    [
+                        -6016,
+                        -1694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avansaalphacorvaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5986,
+                -1645,
+                -5883,
+                -1677
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5986,
+                        -1645
+                    ],
+                    [
+                        -5883,
+                        -1677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avansaalphaavansabeta",
+                "className": ""
+            },
+            "bbox": [
+                -5883,
+                -1677,
+                -5817,
+                -1678
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5883,
+                        -1677
+                    ],
+                    [
+                        -5817,
+                        -1678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avansabetaotimaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5743,
+                -1686,
+                -5817,
+                -1678
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5743,
+                        -1686
+                    ],
+                    [
+                        -5817,
+                        -1678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "otimaalphaotimabeta",
+                "className": ""
+            },
+            "bbox": [
+                -5720,
+                -1718,
+                -5743,
+                -1686
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5720,
+                        -1718
+                    ],
+                    [
+                        -5743,
+                        -1686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avansabetaruhebeta",
+                "className": ""
+            },
+            "bbox": [
+                -5808,
+                -1765,
+                -5817,
+                -1678
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5808,
+                        -1765
+                    ],
+                    [
+                        -5817,
+                        -1678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ruhealpharuhebeta",
+                "className": ""
+            },
+            "bbox": [
+                -5767,
+                -1768,
+                -5808,
+                -1765
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5767,
+                        -1768
+                    ],
+                    [
+                        -5808,
+                        -1765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "otimabetaruhealpha",
+                "className": ""
+            },
+            "bbox": [
+                -5767,
+                -1768,
+                -5720,
+                -1718
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5767,
+                        -1768
+                    ],
+                    [
+                        -5720,
+                        -1718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aonadbetacomstalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5720,
+                -1856,
+                -5795,
+                -1892
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5720,
+                        -1856
+                    ],
+                    [
+                        -5795,
+                        -1892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aonadalpharuhebeta",
+                "className": ""
+            },
+            "bbox": [
+                -5748,
+                -1830,
+                -5808,
+                -1765
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5748,
+                        -1830
+                    ],
+                    [
+                        -5808,
+                        -1765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aonadalphaaonadbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5720,
+                -1856,
+                -5748,
+                -1830
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5720,
+                        -1856
+                    ],
+                    [
+                        -5748,
+                        -1830
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aonadbetaotimabeta",
+                "className": ""
+            },
+            "bbox": [
+                -5720,
+                -1718,
+                -5720,
+                -1856
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5720,
+                        -1718
+                    ],
+                    [
+                        -5720,
+                        -1856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "comstalphacomstbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5795,
+                -1892,
+                -5793,
+                -1929
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5795,
+                        -1892
+                    ],
+                    [
+                        -5793,
+                        -1929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasaalphabarasabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6060,
+                -1935,
+                -6088,
+                -1983
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6060,
+                        -1935
+                    ],
+                    [
+                        -6088,
+                        -1983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasaalphabarasagamma",
+                "className": ""
+            },
+            "bbox": [
+                -6088,
+                -1983,
+                -6028,
+                -1983
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6088,
+                        -1983
+                    ],
+                    [
+                        -6028,
+                        -1983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasabetabarasagamma",
+                "className": ""
+            },
+            "bbox": [
+                -6028,
+                -1983,
+                -6060,
+                -1935
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6028,
+                        -1983
+                    ],
+                    [
+                        -6060,
+                        -1935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasagammaburranalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6028,
+                -1983,
+                -5901,
+                -1978
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6028,
+                        -1983
+                    ],
+                    [
+                        -5901,
+                        -1978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "burranalphacomstbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5793,
+                -1929,
+                -5901,
+                -1978
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5793,
+                        -1929
+                    ],
+                    [
+                        -5901,
+                        -1978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasaalphabrijacalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6195,
+                -1983,
+                -6088,
+                -1983
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6195,
+                        -1983
+                    ],
+                    [
+                        -6088,
+                        -1983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brijacalphabrijacbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6196,
+                -1910,
+                -6195,
+                -1983
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6196,
+                        -1910
+                    ],
+                    [
+                        -6195,
+                        -1983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bekubetabrijacalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6295,
+                -2014,
+                -6195,
+                -1983
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6295,
+                        -2014
+                    ],
+                    [
+                        -6195,
+                        -1983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bekualphabekubeta",
+                "className": ""
+            },
+            "bbox": [
+                -6350,
+                -2014,
+                -6295,
+                -2014
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6350,
+                        -2014
+                    ],
+                    [
+                        -6295,
+                        -2014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gelidaalphagelidabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6351,
+                -1953,
+                -6291,
+                -1952
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6351,
+                        -1953
+                    ],
+                    [
+                        -6291,
+                        -1952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bekualphagelidabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6351,
+                -1953,
+                -6350,
+                -2014
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6351,
+                        -1953
+                    ],
+                    [
+                        -6350,
+                        -2014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bekualphabimasabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6417,
+                -1997,
+                -6350,
+                -2014
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6417,
+                        -1997
+                    ],
+                    [
+                        -6350,
+                        -2014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bimasabetagelidabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6351,
+                -1953,
+                -6417,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6351,
+                        -1953
+                    ],
+                    [
+                        -6417,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bimasaalphabimasabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6494,
+                -1997,
+                -6417,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6494,
+                        -1997
+                    ],
+                    [
+                        -6417,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bimasaalphabrellanalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6579,
+                -1997,
+                -6494,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6579,
+                        -1997
+                    ],
+                    [
+                        -6494,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brellanalphabrellanbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6640,
+                -1997,
+                -6579,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6640,
+                        -1997
+                    ],
+                    [
+                        -6579,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brellanalphabrellangamma",
+                "className": ""
+            },
+            "bbox": [
+                -6579,
+                -1997,
+                -6611,
+                -1949
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6579,
+                        -1997
+                    ],
+                    [
+                        -6611,
+                        -1949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brellanbetabrellangamma",
+                "className": ""
+            },
+            "bbox": [
+                -6611,
+                -1949,
+                -6640,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6611,
+                        -1949
+                    ],
+                    [
+                        -6640,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adotolaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6054,
+                -1342,
+                -6037,
+                -1473
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6054,
+                        -1342
+                    ],
+                    [
+                        -6037,
+                        -1473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "comstalphathaylenbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5795,
+                -1892,
+                -5858,
+                -1855
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5795,
+                        -1892
+                    ],
+                    [
+                        -5858,
+                        -1855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "thaylenalphathaylenbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5858,
+                -1855,
+                -5882,
+                -1878
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5858,
+                        -1855
+                    ],
+                    [
+                        -5882,
+                        -1878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "burranalphaburranbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5948,
+                -1911,
+                -5901,
+                -1978
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5948,
+                        -1911
+                    ],
+                    [
+                        -5901,
+                        -1978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "burranbetathaylenalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5948,
+                -1911,
+                -5882,
+                -1878
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5948,
+                        -1911
+                    ],
+                    [
+                        -5882,
+                        -1878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rosharalpharosharbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5890,
+                -1797,
+                -5949,
+                -1797
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5890,
+                        -1797
+                    ],
+                    [
+                        -5949,
+                        -1797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avansaalpharosharbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5883,
+                -1677,
+                -5890,
+                -1797
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5883,
+                        -1677
+                    ],
+                    [
+                        -5890,
+                        -1797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corvagammarosharalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5954,
+                -1695,
+                -5949,
+                -1797
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5954,
+                        -1695
+                    ],
+                    [
+                        -5949,
+                        -1797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rosharbetathaylenbeta",
+                "className": ""
+            },
+            "bbox": [
+                -5858,
+                -1855,
+                -5890,
+                -1797
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5858,
+                        -1855
+                    ],
+                    [
+                        -5890,
+                        -1797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aonadbetamurasaki312",
+                "className": ""
+            },
+            "bbox": [
+                -5602,
                 -1737,
-                -5734,
-                -1327
+                -5720,
+                -1856
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5599,
+                        -5602,
                         -1737
                     ],
                     [
-                        -5734,
-                        -1327
+                        -5720,
+                        -1856
                     ]
                 ]
             }
@@ -193,25 +1441,2859 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "cothtellun",
+                "name": "rosharalphastilhealpha",
                 "className": ""
             },
             "bbox": [
-                -5643,
-                -1222,
-                -5734,
-                -1327
+                -5949,
+                -1797,
+                -6007,
+                -1834
             ],
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -5643,
-                        -1222
+                        -5949,
+                        -1797
                     ],
                     [
-                        -5734,
-                        -1327
+                        -6007,
+                        -1834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "burranbetastilhealpha",
+                "className": ""
+            },
+            "bbox": [
+                -6007,
+                -1834,
+                -5948,
+                -1911
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6007,
+                        -1834
+                    ],
+                    [
+                        -5948,
+                        -1911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stilhealphastilhebeta",
+                "className": ""
+            },
+            "bbox": [
+                -6077,
+                -1804,
+                -6007,
+                -1834
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6077,
+                        -1804
+                    ],
+                    [
+                        -6007,
+                        -1834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "criosalphastilhebeta",
+                "className": ""
+            },
+            "bbox": [
+                -6077,
+                -1804,
+                -6076,
+                -1660
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6077,
+                        -1804
+                    ],
+                    [
+                        -6076,
+                        -1660
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "liotimaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -5765,
+                -1613,
+                -5743,
+                -1686
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5765,
+                        -1613
+                    ],
+                    [
+                        -5743,
+                        -1686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "saldetialphasaldetibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6293,
+                -1880,
+                -6345,
+                -1880
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6293,
+                        -1880
+                    ],
+                    [
+                        -6345,
+                        -1880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gelidaalphasaldetibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6345,
+                -1880,
+                -6291,
+                -1952
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6345,
+                        -1880
+                    ],
+                    [
+                        -6291,
+                        -1952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brijacbetasaldetialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6196,
+                -1910,
+                -6293,
+                -1880
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6196,
+                        -1910
+                    ],
+                    [
+                        -6293,
+                        -1880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zamaroalphazamarobeta",
+                "className": ""
+            },
+            "bbox": [
+                -6423,
+                -1881,
+                -6415,
+                -1913
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6423,
+                        -1881
+                    ],
+                    [
+                        -6415,
+                        -1913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "saldetibetazamarobeta",
+                "className": ""
+            },
+            "bbox": [
+                -6415,
+                -1913,
+                -6345,
+                -1880
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6415,
+                        -1913
+                    ],
+                    [
+                        -6345,
+                        -1880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "berthobetazamaroalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6489,
+                -1881,
+                -6423,
+                -1881
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6489,
+                        -1881
+                    ],
+                    [
+                        -6423,
+                        -1881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bimasaalphazamarobeta",
+                "className": ""
+            },
+            "bbox": [
+                -6415,
+                -1913,
+                -6494,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6415,
+                        -1913
+                    ],
+                    [
+                        -6494,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "berthoalphaberthobeta",
+                "className": ""
+            },
+            "bbox": [
+                -6563,
+                -1863,
+                -6489,
+                -1881
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6563,
+                        -1863
+                    ],
+                    [
+                        -6489,
+                        -1881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "berthoalphabrellangamma",
+                "className": ""
+            },
+            "bbox": [
+                -6611,
+                -1949,
+                -6563,
+                -1863
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6611,
+                        -1949
+                    ],
+                    [
+                        -6563,
+                        -1863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brellanbetaduportasalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6684,
+                -1897,
+                -6640,
+                -1997
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6684,
+                        -1897
+                    ],
+                    [
+                        -6640,
+                        -1997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "berthoalphaduportasalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6684,
+                -1897,
+                -6563,
+                -1863
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6684,
+                        -1897
+                    ],
+                    [
+                        -6563,
+                        -1863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "duportasalphaduportasbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6696,
+                -1833,
+                -6684,
+                -1897
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6696,
+                        -1833
+                    ],
+                    [
+                        -6684,
+                        -1897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nujordalphanujordbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6767,
+                -1772,
+                -6800,
+                -1803
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6767,
+                        -1772
+                    ],
+                    [
+                        -6800,
+                        -1803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "duportasbetanujordalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6767,
+                -1772,
+                -6696,
+                -1833
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6767,
+                        -1772
+                    ],
+                    [
+                        -6696,
+                        -1833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "framtidalphahrojostbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6808,
+                -1702,
+                -6878,
+                -1703
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6808,
+                        -1702
+                    ],
+                    [
+                        -6878,
+                        -1703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "framtidalphaframtidbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6902,
+                -1667,
+                -6878,
+                -1703
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6902,
+                        -1667
+                    ],
+                    [
+                        -6878,
+                        -1703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hrojostbetanujordalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6767,
+                -1772,
+                -6808,
+                -1702
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6767,
+                        -1772
+                    ],
+                    [
+                        -6808,
+                        -1702
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "framtidalphanujordbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6800,
+                -1803,
+                -6878,
+                -1703
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6800,
+                        -1803
+                    ],
+                    [
+                        -6878,
+                        -1703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hrojostalphahrojostbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6808,
+                -1702,
+                -6724,
+                -1703
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6808,
+                        -1702
+                    ],
+                    [
+                        -6724,
+                        -1703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "thoszalphathoszbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6568,
+                -1626,
+                -6586,
+                -1664
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6568,
+                        -1626
+                    ],
+                    [
+                        -6586,
+                        -1664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eldurbetahrojostalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6724,
+                -1703,
+                -6662,
+                -1682
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6724,
+                        -1703
+                    ],
+                    [
+                        -6662,
+                        -1682
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eldurbetathoszbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6662,
+                -1682,
+                -6586,
+                -1664
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6662,
+                        -1682
+                    ],
+                    [
+                        -6586,
+                        -1664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "abilakkalphaabilakkbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6491,
+                -1648,
+                -6489,
+                -1572
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6491,
+                        -1648
+                    ],
+                    [
+                        -6489,
+                        -1572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "abilakkbetathoszalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6568,
+                -1626,
+                -6489,
+                -1572
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6568,
+                        -1626
+                    ],
+                    [
+                        -6489,
+                        -1572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tholusbetatholusgamma",
+                "className": ""
+            },
+            "bbox": [
+                -6406,
+                -1628,
+                -6346,
+                -1628
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6406,
+                        -1628
+                    ],
+                    [
+                        -6346,
+                        -1628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "abilakkalphatholusbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6491,
+                -1648,
+                -6406,
+                -1628
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6491,
+                        -1648
+                    ],
+                    [
+                        -6406,
+                        -1628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tholusalphatholusbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6377,
+                -1579,
+                -6406,
+                -1628
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6377,
+                        -1579
+                    ],
+                    [
+                        -6406,
+                        -1628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tholusalphatholusgamma",
+                "className": ""
+            },
+            "bbox": [
+                -6377,
+                -1579,
+                -6346,
+                -1628
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6377,
+                        -1579
+                    ],
+                    [
+                        -6346,
+                        -1628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aylusbetaduportasbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6696,
+                -1833,
+                -6617,
+                -1793
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6696,
+                        -1833
+                    ],
+                    [
+                        -6617,
+                        -1793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aylusalphaaylusbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6617,
+                -1793,
+                -6595,
+                -1745
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6617,
+                        -1793
+                    ],
+                    [
+                        -6595,
+                        -1745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "berthobetatazolkabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6489,
+                -1881,
+                -6506,
+                -1801
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6489,
+                        -1881
+                    ],
+                    [
+                        -6506,
+                        -1801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tazolkaalphatazolkabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6506,
+                -1801,
+                -6487,
+                -1769
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6506,
+                        -1801
+                    ],
+                    [
+                        -6487,
+                        -1769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aylusalphatazolkabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6506,
+                -1801,
+                -6595,
+                -1745
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6506,
+                        -1801
+                    ],
+                    [
+                        -6595,
+                        -1745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aylusalphathoszbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6595,
+                -1745,
+                -6586,
+                -1664
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6595,
+                        -1745
+                    ],
+                    [
+                        -6586,
+                        -1664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "elduralphaeldurbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6662,
+                -1682,
+                -6648,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6662,
+                        -1682
+                    ],
+                    [
+                        -6648,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "framtidbetainnlasnalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6903,
+                -1461,
+                -6902,
+                -1667
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6903,
+                        -1461
+                    ],
+                    [
+                        -6902,
+                        -1667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "innlasnalphainnlasnbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6903,
+                -1461,
+                -6862,
+                -1500
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6903,
+                        -1461
+                    ],
+                    [
+                        -6862,
+                        -1500
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "innlasnbetavantaralpha",
+                "className": ""
+            },
+            "bbox": [
+                -6768,
+                -1474,
+                -6862,
+                -1500
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6768,
+                        -1474
+                    ],
+                    [
+                        -6862,
+                        -1500
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vantaralphavantarbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6768,
+                -1474,
+                -6708,
+                -1484
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6768,
+                        -1474
+                    ],
+                    [
+                        -6708,
+                        -1484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "klefaskialphavantarbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6648,
+                -1487,
+                -6708,
+                -1484
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6648,
+                        -1487
+                    ],
+                    [
+                        -6708,
+                        -1484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "klefaskialphaklefaskibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6648,
+                -1487,
+                -6630,
+                -1535
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6648,
+                        -1487
+                    ],
+                    [
+                        -6630,
+                        -1535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "elduralphaklefaskibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6630,
+                -1535,
+                -6648,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6630,
+                        -1535
+                    ],
+                    [
+                        -6648,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nyrheimergammanyrheimuralpha",
+                "className": ""
+            },
+            "bbox": [
+                -6767,
+                -1561,
+                -6734,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6767,
+                        -1561
+                    ],
+                    [
+                        -6734,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nyrheimuralphanyrheimurbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6796,
+                -1611,
+                -6734,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6796,
+                        -1611
+                    ],
+                    [
+                        -6734,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nyrheimergammanyrheimurbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6767,
+                -1561,
+                -6796,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6767,
+                        -1561
+                    ],
+                    [
+                        -6796,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "elduralphanyrheimuralpha",
+                "className": ""
+            },
+            "bbox": [
+                -6648,
+                -1611,
+                -6734,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6648,
+                        -1611
+                    ],
+                    [
+                        -6734,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hrojostalphanyrheimurbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6724,
+                -1703,
+                -6796,
+                -1611
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6724,
+                        -1703
+                    ],
+                    [
+                        -6796,
+                        -1611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nyrheimergammavantaralpha",
+                "className": ""
+            },
+            "bbox": [
+                -6768,
+                -1474,
+                -6767,
+                -1561
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6768,
+                        -1474
+                    ],
+                    [
+                        -6767,
+                        -1561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "helvialphahelvibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6565,
+                -1432,
+                -6606,
+                -1458
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6565,
+                        -1432
+                    ],
+                    [
+                        -6606,
+                        -1458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "helvibetaklefaskialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6606,
+                -1458,
+                -6648,
+                -1487
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6606,
+                        -1458
+                    ],
+                    [
+                        -6648,
+                        -1487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "helvialphazhianbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6630,
+                -1341,
+                -6565,
+                -1432
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6630,
+                        -1341
+                    ],
+                    [
+                        -6565,
+                        -1432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tefkarialphazhianbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6709,
+                -1385,
+                -6630,
+                -1341
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6709,
+                        -1385
+                    ],
+                    [
+                        -6630,
+                        -1341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tefkarialphatefkaribeta",
+                "className": ""
+            },
+            "bbox": [
+                -6777,
+                -1393,
+                -6709,
+                -1385
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6777,
+                        -1393
+                    ],
+                    [
+                        -6709,
+                        -1385
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tefkarialphavantarbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6708,
+                -1484,
+                -6709,
+                -1385
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6708,
+                        -1484
+                    ],
+                    [
+                        -6709,
+                        -1385
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "innlasnalphatefkaribeta",
+                "className": ""
+            },
+            "bbox": [
+                -6777,
+                -1393,
+                -6903,
+                -1461
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6777,
+                        -1393
+                    ],
+                    [
+                        -6903,
+                        -1461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hoobishanalphahoobishanbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6265,
+                -1215,
+                -6285,
+                -1298
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6265,
+                        -1215
+                    ],
+                    [
+                        -6285,
+                        -1298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hoobishanalphaperimbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6265,
+                -1215,
+                -6154,
+                -1215
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6265,
+                        -1215
+                    ],
+                    [
+                        -6154,
+                        -1215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ezlaalphaezlabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6173,
+                -1329,
+                -6207,
+                -1299
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6173,
+                        -1329
+                    ],
+                    [
+                        -6207,
+                        -1299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ezlabetatemerialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6173,
+                -1329,
+                -6110,
+                -1377
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6173,
+                        -1329
+                    ],
+                    [
+                        -6110,
+                        -1377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ezlaalphaperimalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6113,
+                -1250,
+                -6207,
+                -1299
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6113,
+                        -1250
+                    ],
+                    [
+                        -6207,
+                        -1299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ezlaalphahoobishanbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6285,
+                -1298,
+                -6207,
+                -1299
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6285,
+                        -1298
+                    ],
+                    [
+                        -6207,
+                        -1299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hoobishanalphamakalaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6424,
+                -1258,
+                -6265,
+                -1215
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6424,
+                        -1258
+                    ],
+                    [
+                        -6265,
+                        -1215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "makalaalphamakalabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6424,
+                -1258,
+                -6456,
+                -1309
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6424,
+                        -1258
+                    ],
+                    [
+                        -6456,
+                        -1309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "makalabetamakalagamma",
+                "className": ""
+            },
+            "bbox": [
+                -6456,
+                -1309,
+                -6392,
+                -1309
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6456,
+                        -1309
+                    ],
+                    [
+                        -6392,
+                        -1309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "makalaalphamakalagamma",
+                "className": ""
+            },
+            "bbox": [
+                -6392,
+                -1309,
+                -6424,
+                -1258
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6392,
+                        -1309
+                    ],
+                    [
+                        -6424,
+                        -1258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trissalphatrissbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6461,
+                -1405,
+                -6391,
+                -1424
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6461,
+                        -1405
+                    ],
+                    [
+                        -6391,
+                        -1424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zhianalphazhianbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6547,
+                -1342,
+                -6630,
+                -1341
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6547,
+                        -1342
+                    ],
+                    [
+                        -6630,
+                        -1341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "makalabetazhianalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6456,
+                -1309,
+                -6547,
+                -1342
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6456,
+                        -1309
+                    ],
+                    [
+                        -6547,
+                        -1342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trissbetazhianalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6547,
+                -1342,
+                -6461,
+                -1405
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6547,
+                        -1342
+                    ],
+                    [
+                        -6461,
+                        -1405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tiganalphavemirabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6285,
+                -1388,
+                -6330,
+                -1428
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6285,
+                        -1388
+                    ],
+                    [
+                        -6330,
+                        -1428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tiganalphatrissalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6330,
+                -1428,
+                -6391,
+                -1424
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6330,
+                        -1428
+                    ],
+                    [
+                        -6391,
+                        -1424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tiganalphatiganbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6330,
+                -1428,
+                -6332,
+                -1480
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6330,
+                        -1428
+                    ],
+                    [
+                        -6332,
+                        -1480
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hoobishanbetavemirabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6285,
+                -1298,
+                -6285,
+                -1388
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6285,
+                        -1298
+                    ],
+                    [
+                        -6285,
+                        -1388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vemiraalphavemirabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6285,
+                -1388,
+                -6256,
+                -1409
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6285,
+                        -1388
+                    ],
+                    [
+                        -6256,
+                        -1409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tezeraalphatholusalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6279,
+                -1539,
+                -6377,
+                -1579
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6279,
+                        -1539
+                    ],
+                    [
+                        -6377,
+                        -1579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adiabetatezerabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6204,
+                -1504,
+                -6157,
+                -1437
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6204,
+                        -1504
+                    ],
+                    [
+                        -6157,
+                        -1437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tezerabetavemiraalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6256,
+                -1409,
+                -6204,
+                -1504
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6256,
+                        -1409
+                    ],
+                    [
+                        -6204,
+                        -1504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tezeraalphatezerabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6204,
+                -1504,
+                -6279,
+                -1539
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6204,
+                        -1504
+                    ],
+                    [
+                        -6279,
+                        -1539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tezeraalphatiganbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6279,
+                -1539,
+                -6332,
+                -1480
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6279,
+                        -1539
+                    ],
+                    [
+                        -6332,
+                        -1480
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lenaraalphalenarabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6507,
+                -1453,
+                -6479,
+                -1472
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6507,
+                        -1453
+                    ],
+                    [
+                        -6479,
+                        -1472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lenarabetatrissbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6461,
+                -1405,
+                -6507,
+                -1453
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6461,
+                        -1405
+                    ],
+                    [
+                        -6507,
+                        -1453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "helvialphalenarabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6507,
+                -1453,
+                -6565,
+                -1432
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6507,
+                        -1453
+                    ],
+                    [
+                        -6565,
+                        -1432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "abilakkbetalenaraalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6479,
+                -1472,
+                -6489,
+                -1572
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6479,
+                        -1472
+                    ],
+                    [
+                        -6489,
+                        -1572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "anzatalphaanzatbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6366,
+                -1737,
+                -6432,
+                -1725
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6366,
+                        -1737
+                    ],
+                    [
+                        -6432,
+                        -1725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "anzatbetatazolkaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6432,
+                -1725,
+                -6487,
+                -1769
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6432,
+                        -1725
+                    ],
+                    [
+                        -6487,
+                        -1769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "abilakkalphaanzatbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6432,
+                -1725,
+                -6491,
+                -1648
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6432,
+                        -1725
+                    ],
+                    [
+                        -6491,
+                        -1648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "parturialphaparturibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6319,
+                -1727,
+                -6317,
+                -1768
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6319,
+                        -1727
+                    ],
+                    [
+                        -6317,
+                        -1768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "anzatalphaparturibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6319,
+                -1727,
+                -6366,
+                -1737
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6319,
+                        -1727
+                    ],
+                    [
+                        -6366,
+                        -1737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "asitialphaasitibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6257,
+                -1699,
+                -6245,
+                -1731
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6257,
+                        -1699
+                    ],
+                    [
+                        -6245,
+                        -1731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "asitibetaparturibeta",
+                "className": ""
+            },
+            "bbox": [
+                -6257,
+                -1699,
+                -6319,
+                -1727
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6257,
+                        -1699
+                    ],
+                    [
+                        -6319,
+                        -1727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "qeymaalphaqeymabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6198,
+                -1652,
+                -6148,
+                -1705
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6198,
+                        -1652
+                    ],
+                    [
+                        -6148,
+                        -1705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "asitibetaqeymaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6198,
+                -1652,
+                -6257,
+                -1699
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6198,
+                        -1652
+                    ],
+                    [
+                        -6257,
+                        -1699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kolavaalphakolavabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6163,
+                -1786,
+                -6194,
+                -1764
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6163,
+                        -1786
+                    ],
+                    [
+                        -6194,
+                        -1764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kolavaalphaqeymabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6148,
+                -1705,
+                -6163,
+                -1786
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6148,
+                        -1705
+                    ],
+                    [
+                        -6163,
+                        -1786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "asitialphakolavabeta",
+                "className": ""
+            },
+            "bbox": [
+                -6194,
+                -1764,
+                -6245,
+                -1731
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6194,
+                        -1764
+                    ],
+                    [
+                        -6245,
+                        -1731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "criosbetaqeymaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6135,
+                -1596,
+                -6198,
+                -1652
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6135,
+                        -1596
+                    ],
+                    [
+                        -6198,
+                        -1652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bolarialphabolaribeta",
+                "className": ""
+            },
+            "bbox": [
+                -6247,
+                -1825,
+                -6129,
+                -1846
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6247,
+                        -1825
+                    ],
+                    [
+                        -6129,
+                        -1846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bolarialphakolavaalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6129,
+                -1846,
+                -6163,
+                -1786
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6129,
+                        -1846
+                    ],
+                    [
+                        -6163,
+                        -1786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barasabetabolarialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6060,
+                -1935,
+                -6129,
+                -1846
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6060,
+                        -1935
+                    ],
+                    [
+                        -6129,
+                        -1846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bolaribetabrijacbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6196,
+                -1910,
+                -6247,
+                -1825
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6196,
+                        -1910
+                    ],
+                    [
+                        -6247,
+                        -1825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bolaribetaparturialpha",
+                "className": ""
+            },
+            "bbox": [
+                -6247,
+                -1825,
+                -6317,
+                -1768
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6247,
+                        -1825
+                    ],
+                    [
+                        -6317,
+                        -1768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "makalagammatrissalpha",
+                "className": ""
+            },
+            "bbox": [
+                -6392,
+                -1309,
+                -6391,
+                -1424
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6392,
+                        -1309
+                    ],
+                    [
+                        -6391,
+                        -1424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "anzatalphatholusgamma",
+                "className": ""
+            },
+            "bbox": [
+                -6366,
+                -1737,
+                -6346,
+                -1628
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6366,
+                        -1737
+                    ],
+                    [
+                        -6346,
+                        -1628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nottperimbeta",
+                "className": ""
+            },
+            "bbox": [
+                -6138,
+                -1160,
+                -6154,
+                -1215
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6138,
+                        -1160
+                    ],
+                    [
+                        -6154,
+                        -1215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "adokito",
+                "className": ""
+            },
+            "bbox": [
+                -6054,
+                -1342,
+                -6011,
+                -1350
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6054,
+                        -1342
+                    ],
+                    [
+                        -6011,
+                        -1350
                     ]
                 ]
             }

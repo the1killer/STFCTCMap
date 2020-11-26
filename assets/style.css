@@ -1,11 +1,11 @@
 /* map positioning/style */
-@font-face {
+/* @font-face {
     font-family: 'liberation_sansregular';
     src: url('../fonts/liberationsans-regular-webfont.woff2') format('woff2'),
     url('../fonts/liberationsans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
+} */
 html, body {
     height:100%
 }
@@ -70,11 +70,30 @@ body > #map-wrapper {
     transition: opacity 0.5s;
     /*margin-left:5px;*/
 }
+.zone-label {
+    /* background: rgba(0, 0, 0, 0.5); */
+    background: none;
+    border: none;
+    color: #fff;
+    box-shadow: none;
+    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    text-transform: capitalize;
+    opacity: 1;
+    transition: opacity 0.5s;
+    text-align: center;
+    line-height: 1.1em;
+    font-size: 0.9em;
+    /* border-radius: 5px; */
+}
+.time {
+    font-size: 0.9em;
+}
+
 .system, .travel-path{
     opacity: 1;
     transition: opacity .2s;
 }
-.system-label::before, .hub-label::before, .tact-label::before, .arm-label::before{
+.system-label::before, .hub-label::before, .tact-label::before, .arm-label::before, .zone-label::before{
     display: none;
 }
 .capital.capital-1 {
@@ -314,14 +333,15 @@ body > #map-wrapper {
 .custom-popup .popup{
     height: 100%;
     border-radius: 8px;
+    background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 75%, rgba(255,255,255,0) 100%);
 }
-.popup-ind {background: url("../img/ui/ind-sys-menu.jpg");}
+/* .popup-ind {background: url("../img/ui/ind-sys-menu.jpg");}
 .popup-fed {background: url("../img/ui/fed-sys-menu.jpg");}
 .popup-rom {background: url("../img/ui/rom-sys-menu.jpg");}
 .popup-kli {background: url("../img/ui/kli-sys-menu.jpg");}
 .popup-aug {background: url("../img/ui/aug-sys-menu.jpg");}
 .popup-swa {background: url("../img/ui/swa-sys-menu.jpg");}
-.popup-rog {background: url("../img/ui/rog-sys-menu.jpg");}
+.popup-rog {background: url("../img/ui/rog-sys-menu.jpg");} */
 .custom-popup .leaflet-popup-content-wrapper {
     position: absolute;
     top: -110px;
@@ -374,8 +394,8 @@ body > #map-wrapper {
     margin-top: 15px;
     padding:5px;
     height: 132px;
-    background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 75%, rgba(255,255,255,0) 100%);
+    /* background: rgb(0,0,0); */
+    /* background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 75%, rgba(255,255,255,0) 100%); */
     line-height: 1.5;
 }
 .system-detail-panel div:not('.tooltip') {

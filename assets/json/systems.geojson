@@ -3,183 +3,3072 @@
     "name": "systems",
     "features": [
         {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1642,
-                    -6041
-                ]
-            },
-            "properties": {
-                "name": "Worhundelja",
-                "systemID": 78727,
-                "systemLevel": 9,
-                "warpRequired": 5,
-                "territory": "Independent",
-                "event": "",
-                "stationHub": 0,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "Tritanium",
-                "hostiles": "Battleship"
-            }
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1648,
+              -6491
+            ]
+          },
+          "properties": {
+            "name": "Abilakk Alpha",
+            "systemID": 2038739638,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
         },
         {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1737,
-                    -5599
-                ]
-            },
-            "properties": {
-                "name": "Murasaki 312",
-                "systemID": 1658720101,
-                "systemLevel": 10,
-                "warpRequired": 6,
-                "territory": "Independent",
-                "event": "",
-                "stationHub": 0,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "Dilithium",
-                "hostiles": "Battleship"
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1327,
-                    -5734
-                ]
-            },
-            "properties": {
-                "name": "Tellun",
-                "systemID": 90,
-                "systemLevel": 7,
-                "warpRequired": 5,
-                "territory": "Independent",
-                "event": "",
-                "stationHub": 0,
-                "icon": "capital",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "",
-                "hostiles": "Explorer"
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1343,
-                    -6151
-                ]
-            },
-            "properties": {
-                "name": "Kito",
-                "systemID": 78726,
-                "systemLevel": 9,
-                "warpRequired": 5,
-                "territory": "Independent",
-                "event": "",
-                "stationHub": 0,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "Tritanium",
-                "hostiles": "Battleship"
-            }
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1572,
+              -6489
+            ]
+          },
+          "properties": {
+            "name": "Abilakk Beta",
+            "systemID": 139414838,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
         },
         {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1111,
-                    -6118
-                ]
-            },
-            "properties": {
-                "name": "Jinnia",
-                "systemID": 76222,
-                "systemLevel": 9,
-                "warpRequired": 5,
-                "territory": "Independent",
-                "event": "",
-                "stationHub": 1,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "Tritanium",
-                "hostiles": "Battleship"
-            }
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1510,
+              -6133
+            ]
+          },
+          "properties": {
+            "name": "Adia Alpha",
+            "systemID": 879333661,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
         },
         {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -639,
-                    -4997
-                ]
-            },
-            "properties": {
-                "name": "Van Cleef",
-                "systemID": 409938372,
-                "systemLevel": 29,
-                "warpRequired": 24,
-                "territory": "",
-                "event": "",
-                "stationHub": 0,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "3* Raw Crystal",
-                "hostiles": ""
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -680,
-                    -5073
-                ]
-            },
-            "properties": {
-                "name": "D0D-G",
-                "systemID": 1666924692,
-                "systemLevel": 28,
-                "warpRequired": 24,
-                "territory": "",
-                "event": "",
-                "stationHub": 1,
-                "icon": "",
-                "deepDarkSpace": 0,
-                "uncommonArmadaRange": "",
-                "rareArmadaRange": "",
-                "epicArmadaRange": "",
-                "mines": "",
-                "hostiles": ""
-            }
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1437,
+              -6157
+            ]
+          },
+          "properties": {
+            "name": "Adia Beta",
+            "systemID": 376606935,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1342,
+              -6054
+            ]
+          },
+          "properties": {
+            "name": "Ado",
+            "systemID": 768871279,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 0,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1737,
+              -6366
+            ]
+          },
+          "properties": {
+            "name": "Anzat Alpha",
+            "systemID": 1832830529,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1725,
+              -6432
+            ]
+          },
+          "properties": {
+            "name": "Anzat Beta",
+            "systemID": 469633213,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1830,
+              -5748
+            ]
+          },
+          "properties": {
+            "name": "Aonad Alpha",
+            "systemID": 608311844,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1856,
+              -5720
+            ]
+          },
+          "properties": {
+            "name": "Aonad Beta",
+            "systemID": 185994535,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1731,
+              -6245
+            ]
+          },
+          "properties": {
+            "name": "Asiti Alpha",
+            "systemID": 1466324689,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1699,
+              -6257
+            ]
+          },
+          "properties": {
+            "name": "Asiti Beta",
+            "systemID": 1220997168,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1677,
+              -5883
+            ]
+          },
+          "properties": {
+            "name": "Avansa Alpha",
+            "systemID": 992032794,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1678,
+              -5817
+            ]
+          },
+          "properties": {
+            "name": "Avansa Beta",
+            "systemID": 1313909326,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1745,
+              -6595
+            ]
+          },
+          "properties": {
+            "name": "Aylus Alpha",
+            "systemID": 954632802,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1793,
+              -6617
+            ]
+          },
+          "properties": {
+            "name": "Aylus Beta",
+            "systemID": 1646316380,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1983,
+              -6088
+            ]
+          },
+          "properties": {
+            "name": "Barasa Alpha",
+            "systemID": 539879784,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1935,
+              -6060
+            ]
+          },
+          "properties": {
+            "name": "Barasa Beta",
+            "systemID": 1850739058,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1983,
+              -6028
+            ]
+          },
+          "properties": {
+            "name": "Barasa Gamma",
+            "systemID": 861323265,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2014,
+              -6350
+            ]
+          },
+          "properties": {
+            "name": "Beku Alpha",
+            "systemID": 380667492,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2014,
+              -6295
+            ]
+          },
+          "properties": {
+            "name": "Beku Beta",
+            "systemID": 1598300560,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1863,
+              -6563
+            ]
+          },
+          "properties": {
+            "name": "Ber'Tho Alpha",
+            "systemID": 1893283135,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1881,
+              -6489
+            ]
+          },
+          "properties": {
+            "name": "Ber'Tho Beta",
+            "systemID": 1768926542,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1997,
+              -6494
+            ]
+          },
+          "properties": {
+            "name": "Bimasa Alpha",
+            "systemID": 962772796,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1997,
+              -6417
+            ]
+          },
+          "properties": {
+            "name": "Bimasa Beta",
+            "systemID": 945638280,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1846,
+              -6129
+            ]
+          },
+          "properties": {
+            "name": "Bolari Alpha",
+            "systemID": 1064639043,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1825,
+              -6247
+            ]
+          },
+          "properties": {
+            "name": "Bolari Beta",
+            "systemID": 1278297069,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1997,
+              -6579
+            ]
+          },
+          "properties": {
+            "name": "Brellan Alpha",
+            "systemID": 1758632971,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1997,
+              -6640
+            ]
+          },
+          "properties": {
+            "name": "Brellan Beta",
+            "systemID": 2015624080,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1949,
+              -6611
+            ]
+          },
+          "properties": {
+            "name": "Brellan Gamma",
+            "systemID": 840163883,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1983,
+              -6195
+            ]
+          },
+          "properties": {
+            "name": "Brijac Alpha",
+            "systemID": 962542656,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1910,
+              -6196
+            ]
+          },
+          "properties": {
+            "name": "Brijac Beta",
+            "systemID": 1070354804,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1978,
+              -5901
+            ]
+          },
+          "properties": {
+            "name": "Burran Alpha",
+            "systemID": 1593338589,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1911,
+              -5948
+            ]
+          },
+          "properties": {
+            "name": "Burran Beta",
+            "systemID": 1187168479,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1892,
+              -5795
+            ]
+          },
+          "properties": {
+            "name": "Comst Alpha",
+            "systemID": 240211163,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1929,
+              -5793
+            ]
+          },
+          "properties": {
+            "name": "Comst Beta",
+            "systemID": 1066722677,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1645,
+              -5986
+            ]
+          },
+          "properties": {
+            "name": "Corva Alpha",
+            "systemID": 878300669,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1694,
+              -6016
+            ]
+          },
+          "properties": {
+            "name": "Corva Beta",
+            "systemID": 1028615737,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1695,
+              -5954
+            ]
+          },
+          "properties": {
+            "name": "Corva Gamma",
+            "systemID": 389850125,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1660,
+              -6076
+            ]
+          },
+          "properties": {
+            "name": "Crios Alpha",
+            "systemID": 1034482712,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1596,
+              -6135
+            ]
+          },
+          "properties": {
+            "name": "Crios Beta",
+            "systemID": 163146741,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1897,
+              -6684
+            ]
+          },
+          "properties": {
+            "name": "Duportas Alpha",
+            "systemID": 1803857747,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1833,
+              -6696
+            ]
+          },
+          "properties": {
+            "name": "Duportas Beta",
+            "systemID": 307615643,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1611,
+              -6648
+            ]
+          },
+          "properties": {
+            "name": "Eldur Alpha",
+            "systemID": 310376472,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1682,
+              -6662
+            ]
+          },
+          "properties": {
+            "name": "Eldur Beta",
+            "systemID": 861558882,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1299,
+              -6207
+            ]
+          },
+          "properties": {
+            "name": "Ezla Alpha",
+            "systemID": 722806600,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1329,
+              -6173
+            ]
+          },
+          "properties": {
+            "name": "Ezla Beta",
+            "systemID": 1560703707,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1703,
+              -6878
+            ]
+          },
+          "properties": {
+            "name": "Framtid Alpha",
+            "systemID": 2045673977,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1667,
+              -6902
+            ]
+          },
+          "properties": {
+            "name": "Framtid Beta",
+            "systemID": 1020112123,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1952,
+              -6291
+            ]
+          },
+          "properties": {
+            "name": "Gelida Alpha",
+            "systemID": 42777065,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1953,
+              -6351
+            ]
+          },
+          "properties": {
+            "name": "Gelida Beta",
+            "systemID": 1462401943,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1432,
+              -6565
+            ]
+          },
+          "properties": {
+            "name": "Helvi Alpha",
+            "systemID": 1427204258,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1458,
+              -6606
+            ]
+          },
+          "properties": {
+            "name": "Helvi Beta",
+            "systemID": 813801255,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1215,
+              -6265
+            ]
+          },
+          "properties": {
+            "name": "Hoobishan Alpha",
+            "systemID": 80157902,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1298,
+              -6285
+            ]
+          },
+          "properties": {
+            "name": "Hoobishan Beta",
+            "systemID": 1237248535,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1703,
+              -6724
+            ]
+          },
+          "properties": {
+            "name": "Hrojost Alpha",
+            "systemID": 937598579,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1702,
+              -6808
+            ]
+          },
+          "properties": {
+            "name": "Hrojost Beta",
+            "systemID": 786385013,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1461,
+              -6903
+            ]
+          },
+          "properties": {
+            "name": "Innlasn Alpha",
+            "systemID": 1324059029,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1500,
+              -6862
+            ]
+          },
+          "properties": {
+            "name": "Innlasn Beta",
+            "systemID": 1759962100,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1487,
+              -6648
+            ]
+          },
+          "properties": {
+            "name": "Klefaski Alpha",
+            "systemID": 1879250507,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1535,
+              -6630
+            ]
+          },
+          "properties": {
+            "name": "Klefaski Beta",
+            "systemID": 1137978067,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1786,
+              -6163
+            ]
+          },
+          "properties": {
+            "name": "Kolava Alpha",
+            "systemID": 1382233658,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1764,
+              -6194
+            ]
+          },
+          "properties": {
+            "name": "Kolava Beta",
+            "systemID": 2053970222,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1472,
+              -6479
+            ]
+          },
+          "properties": {
+            "name": "Lenara Alpha",
+            "systemID": 203913254,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1453,
+              -6507
+            ]
+          },
+          "properties": {
+            "name": "Lenara Beta",
+            "systemID": 1089659533,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1258,
+              -6424
+            ]
+          },
+          "properties": {
+            "name": "Mak'ala Alpha",
+            "systemID": 1849580524,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1309,
+              -6456
+            ]
+          },
+          "properties": {
+            "name": "Mak'ala Beta",
+            "systemID": 1981891423,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1309,
+              -6392
+            ]
+          },
+          "properties": {
+            "name": "Mak'ala Gamma",
+            "systemID": 1782058055,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1772,
+              -6767
+            ]
+          },
+          "properties": {
+            "name": "Nujord Alpha",
+            "systemID": 1943549517,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1803,
+              -6800
+            ]
+          },
+          "properties": {
+            "name": "Nujord Beta",
+            "systemID": 1778259122,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1561,
+              -6767
+            ]
+          },
+          "properties": {
+            "name": "Nyrheimer Gamma",
+            "systemID": 1695798898,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1611,
+              -6734
+            ]
+          },
+          "properties": {
+            "name": "Nyrheimur Alpha",
+            "systemID": 1571296611,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1611,
+              -6796
+            ]
+          },
+          "properties": {
+            "name": "Nyrheimur Beta",
+            "systemID": 344908071,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1686,
+              -5743
+            ]
+          },
+          "properties": {
+            "name": "Otima Alpha",
+            "systemID": 699920086,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1718,
+              -5720
+            ]
+          },
+          "properties": {
+            "name": "Otima Beta",
+            "systemID": 182486122,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1768,
+              -6317
+            ]
+          },
+          "properties": {
+            "name": "Parturi Alpha",
+            "systemID": 9849804,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1727,
+              -6319
+            ]
+          },
+          "properties": {
+            "name": "Parturi Beta",
+            "systemID": 894967478,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1250,
+              -6113
+            ]
+          },
+          "properties": {
+            "name": "Perim Alpha",
+            "systemID": 219764058,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1215,
+              -6154
+            ]
+          },
+          "properties": {
+            "name": "Perim Beta",
+            "systemID": 987655809,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1652,
+              -6198
+            ]
+          },
+          "properties": {
+            "name": "Qeyma Alpha",
+            "systemID": 1593045297,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1705,
+              -6148
+            ]
+          },
+          "properties": {
+            "name": "Qeyma Beta",
+            "systemID": 552025766,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1797,
+              -5949
+            ]
+          },
+          "properties": {
+            "name": "Roshar Alpha",
+            "systemID": 1506334322,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Ore",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1797,
+              -5890
+            ]
+          },
+          "properties": {
+            "name": "Roshar Beta",
+            "systemID": 145247281,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1768,
+              -5767
+            ]
+          },
+          "properties": {
+            "name": "Ruhe Alpha",
+            "systemID": 773013183,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1765,
+              -5808
+            ]
+          },
+          "properties": {
+            "name": "Ruhe Beta",
+            "systemID": 817718828,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1880,
+              -6293
+            ]
+          },
+          "properties": {
+            "name": "Saldeti Alpha",
+            "systemID": 1123110021,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1880,
+              -6345
+            ]
+          },
+          "properties": {
+            "name": "Saldeti Beta",
+            "systemID": 1039958534,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1834,
+              -6007
+            ]
+          },
+          "properties": {
+            "name": "Stilhe Alpha",
+            "systemID": 1583964158,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1804,
+              -6077
+            ]
+          },
+          "properties": {
+            "name": "Stilhe Beta",
+            "systemID": 962007912,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1769,
+              -6487
+            ]
+          },
+          "properties": {
+            "name": "Tazolka Alpha",
+            "systemID": 892076127,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Tritanium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1801,
+              -6506
+            ]
+          },
+          "properties": {
+            "name": "Tazolka Beta",
+            "systemID": 1143281575,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1385,
+              -6709
+            ]
+          },
+          "properties": {
+            "name": "Tefkari Alpha",
+            "systemID": 661203128,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1393,
+              -6777
+            ]
+          },
+          "properties": {
+            "name": "Tefkari Beta",
+            "systemID": 1004655100,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1377,
+              -6110
+            ]
+          },
+          "properties": {
+            "name": "Temeri Alpha",
+            "systemID": 1401344248,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1333,
+              -6096
+            ]
+          },
+          "properties": {
+            "name": "Temeri Beta",
+            "systemID": 250210568,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1539,
+              -6279
+            ]
+          },
+          "properties": {
+            "name": "Tezera Alpha",
+            "systemID": 1938653284,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1504,
+              -6204
+            ]
+          },
+          "properties": {
+            "name": "Tezera Beta",
+            "systemID": 1161402493,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1878,
+              -5882
+            ]
+          },
+          "properties": {
+            "name": "Thaylen Alpha",
+            "systemID": 76168378,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1855,
+              -5858
+            ]
+          },
+          "properties": {
+            "name": "Thaylen Beta",
+            "systemID": 680711098,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1579,
+              -6377
+            ]
+          },
+          "properties": {
+            "name": "Tholus Alpha",
+            "systemID": 1358870345,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "hub",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "4* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1628,
+              -6406
+            ]
+          },
+          "properties": {
+            "name": "Tholus Beta",
+            "systemID": 1268755552,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1628,
+              -6346
+            ]
+          },
+          "properties": {
+            "name": "Tholus Gamma",
+            "systemID": 1308299424,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Crystal",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1626,
+              -6568
+            ]
+          },
+          "properties": {
+            "name": "Thosz Alpha",
+            "systemID": 957449368,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Parsteel",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1664,
+              -6586
+            ]
+          },
+          "properties": {
+            "name": "Thosz Beta",
+            "systemID": 610516582,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1428,
+              -6330
+            ]
+          },
+          "properties": {
+            "name": "Tigan Alpha",
+            "systemID": 492685770,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1480,
+              -6332
+            ]
+          },
+          "properties": {
+            "name": "Tigan Beta",
+            "systemID": 1769159877,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1473,
+              -6037
+            ]
+          },
+          "properties": {
+            "name": "Tola Alpha",
+            "systemID": 559211813,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1494,
+              -6030
+            ]
+          },
+          "properties": {
+            "name": "Tola Beta",
+            "systemID": 2055574236,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1504,
+              -6053
+            ]
+          },
+          "properties": {
+            "name": "Tola Gamma",
+            "systemID": 1273201051,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1424,
+              -6391
+            ]
+          },
+          "properties": {
+            "name": "Triss Alpha",
+            "systemID": 1737987104,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1405,
+              -6461
+            ]
+          },
+          "properties": {
+            "name": "Triss Beta",
+            "systemID": 1144934201,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1474,
+              -6768
+            ]
+          },
+          "properties": {
+            "name": "Vantar Alpha",
+            "systemID": 355757621,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1484,
+              -6708
+            ]
+          },
+          "properties": {
+            "name": "Vantar Beta",
+            "systemID": 282282278,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1409,
+              -6256
+            ]
+          },
+          "properties": {
+            "name": "Vemira Alpha",
+            "systemID": 1361156920,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 1",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1388,
+              -6285
+            ]
+          },
+          "properties": {
+            "name": "Vemira Beta",
+            "systemID": 1112532473,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1881,
+              -6423
+            ]
+          },
+          "properties": {
+            "name": "Zamaro Alpha",
+            "systemID": 267053299,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Dilithium",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1913,
+              -6415
+            ]
+          },
+          "properties": {
+            "name": "Zamaro Beta",
+            "systemID": 529309782,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 2",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1342,
+              -6547
+            ]
+          },
+          "properties": {
+            "name": "Zhian Alpha",
+            "systemID": 284857311,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "3* Raw Gas",
+            "hostiles": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1341,
+              -6630
+            ]
+          },
+          "properties": {
+            "name": "Zhian Beta",
+            "systemID": 754127840,
+            "systemLevel": 0,
+            "warpRequired": 23,
+            "territory": "",
+            "event": "",
+            "stationHub": 0,
+            "icon": "",
+            "deepDarkSpace": 1,
+            "uncommonArmadaRange": "",
+            "rareArmadaRange": "",
+            "epicArmadaRange": "",
+            "mines": "Isogen 3",
+            "hostiles": ""
+          }
         }
-    ]
+      ]
 }

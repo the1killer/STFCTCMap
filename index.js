@@ -12,6 +12,11 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname,"index.html"));
 });
 
+app.get('/map.htm', (req, res) => {
+    //   res.send('Hello World!')
+        res.sendFile(path.join(__dirname,"map.htm"));
+    });
+
 app.get('/stfcpro.htm', (req, res) => {
 //   res.send('Hello World!')
     res.sendFile(path.join(__dirname,"stfcpro.htm"));

@@ -1,0 +1,53 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="./assets/js"></script>
+    <script>
+        // window.dataLayer = window.dataLayer || [];
+        // function gtag(){dataLayer.push(arguments);}
+        // gtag('js', new Date());
+        // gtag('config', 'UA-177748389-1');
+    </script>
+    <title>STFC | TC Map</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="assets/og-img.png">
+    <meta property="og:site_name" content="STFC Pro">
+    <meta property="og:type" content="object">
+    <meta property="og:title" content="Star Trek Fleet Command - Galaxy Map">
+    <!-- <meta property="og:url" content="https://stfcpro.com"> -->
+    <meta property="og:description" content="A map of the Star Trek Fleet Command galaxy and all it&#39;s resources ready for plundering! A discord bot to help you plan the perfect raid, hunt that pesky rogue or dominate the galaxy!">
+
+    <link rel="stylesheet" href="./assets/select2.min.css" defer="">
+    <link rel="stylesheet" href="./assets/leaflet.min.css" defer="">
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
+
+    <!--<link rel="stylesheet" href="assets/lib/leaflet/leaflet.css" />
+    <link rel="stylesheet" href="assets/lib/leaflet/minimap/Control.MiniMap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/css/select2.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/solid.min.css" />-->
+
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body class="custom-popup">
+    <div id="map-wrap">
+        <div id="map" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0" style="position: relative; outline: none;">
+        </div>
+    </div>
+    <div id="sysmap-wrap" class="display-hide">
+        <div id="system-map"></div>
+    </div>
+    <div id="info-panel"></div>
+    <script src="./assets/select2.min.js"></script>
+    <script src="./assets/stfc-map.js"></script>
+    <script src="./assets/stfc-ui.js"></script>
+
+<script>
+    $(function() {
+            STFCMap.init();
+    
+    });
+</script>
+
+</body></html>
