@@ -425,6 +425,11 @@ body > #map-wrapper {
     height: 26px;
 }
 
+img.particle {
+    width: 20px;
+    height: 20px;
+}
+
 /* fancy searchbar */
 button {
     text-align: center;

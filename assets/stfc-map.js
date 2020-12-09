@@ -320,6 +320,10 @@ STFCMap = (function() {
                     let format = "ddd ha"
                     zoneLabel += "<br/><span id='time-"+zoneLabel+"' class='time'>"+time.local().format(format)+"</span>";
                 }
+                if(properties.particle != undefined) {
+                    let iconUrl = icons.other_rss[properties.particle+" Particle"].options.iconUrl;
+                    zoneLabel += `<br/><img class="icon rss particle particle-${properties.particle}" src="${iconUrl}" />`
+                }
                 // zoneLabel += "<br/>Sun 7pm"
                 ter.bindTooltip(zoneLabel,labelOptions)
             }

@@ -228,6 +228,26 @@
             "iconSize": [40, 40],
             "iconUrl": "/resource/refined-mycelium.png",
             "className": "ref-mycelium"
+        },
+        "Quantum Particle": {
+            "iconSize": [40, 40],
+            "iconUrl": "/quantum-particle.png",
+            "className": "particle-quantum"
+        },
+        "Surax Particle": {
+            "iconSize": [40, 40],
+            "iconUrl": "/surax-particle.png",
+            "className": "particle-surax"
+        },
+        "Phantom Particle": {
+            "iconSize": [40, 40],
+            "iconUrl": "/phantom-particle.png",
+            "className": "particle-phantom"
+        },
+        "Metreon Particle": {
+            "iconSize": [40, 40],
+            "iconUrl": "/metreon-particle.png",
+            "className": "particle-metreon"
         }
     },
     "armada": {

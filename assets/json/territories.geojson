@@ -63,6 +63,7 @@
                 "attackDay": 0,
                 "attackHour": 23,
                 "pane": "overlayPane",
+                "particle": "Phantom",
                 "attribution": null,
                 "bubblingMouseEvents": true,
                 "fill": true,
@@ -126,6 +127,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 19,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -190,6 +192,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 21,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -254,6 +257,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 17,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -322,6 +326,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 20,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -386,6 +391,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 22,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -450,6 +456,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 19,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -514,6 +521,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 18,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -582,6 +590,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 19,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -650,6 +659,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 22,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -714,6 +724,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 22,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -778,6 +789,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 17,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -846,6 +858,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 20,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -906,6 +919,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 20,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -966,6 +980,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 0,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1026,6 +1041,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 0,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1094,6 +1110,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 17,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1162,6 +1179,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 22,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1226,6 +1244,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 22,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1286,6 +1305,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 18,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1346,6 +1366,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 23,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1410,6 +1431,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 20,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1474,6 +1496,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 21,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1554,6 +1577,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 21,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1618,6 +1642,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 1,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1682,6 +1707,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 18,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1754,6 +1780,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 20,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1810,6 +1837,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 2,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1870,6 +1898,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 0,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -1938,6 +1967,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 1,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2006,6 +2036,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 1,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2074,6 +2105,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 1,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2146,6 +2178,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 2,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2214,6 +2247,7 @@
             "properties": {
                 "attackDay": 2,
                 "attackHour": 2,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2274,6 +2308,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 2,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2334,6 +2369,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 21,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2402,6 +2438,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 1,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2466,6 +2503,7 @@
             "properties": {
                 "attackDay": 2,
                 "attackHour": 1,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2542,6 +2580,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 0,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2606,6 +2645,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 18,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2670,6 +2710,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 22,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2734,6 +2775,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 19,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2802,6 +2844,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 21,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2866,6 +2909,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 21,
+                "particle": "Surax",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2930,6 +2974,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 19,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -2998,6 +3043,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 18,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3062,6 +3108,7 @@
             "properties": {
                 "attackDay": 6,
                 "attackHour": 23,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3138,6 +3185,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 23,
+                "particle": "Quantum",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3194,6 +3242,7 @@
             "properties": {
                 "attackDay": 3,
                 "attackHour": 23,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3258,6 +3307,7 @@
             "properties": {
                 "attackDay": 2,
                 "attackHour": 0,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3330,6 +3380,7 @@
             "properties": {
                 "attackDay": 5,
                 "attackHour": 2,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3394,6 +3445,7 @@
             "properties": {
                 "attackDay": 0,
                 "attackHour": 2,
+                "particle": "Metreon",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3462,6 +3514,7 @@
             "properties": {
                 "attackDay": 1,
                 "attackHour": 23,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
@@ -3526,6 +3579,7 @@
             "properties": {
                 "attackDay": 4,
                 "attackHour": 0,
+                "particle": "Phantom",
                 "pane": "overlayPane",
                 "attribution": null,
                 "bubblingMouseEvents": true,
