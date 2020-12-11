@@ -277,7 +277,7 @@
                 "fillRule": "evenodd",
                 "interactive": true,
                 "maintainColor": false,
-                "popupContent": "adia-territorry",
+                "popupContent": "adia-territory",
                 "_dashArray": null
             },
             "geometry": {
