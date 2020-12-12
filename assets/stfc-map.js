@@ -268,10 +268,10 @@ STFCMap = (function() {
         map.getPane('shadowPane').style.zIndex = 225; //territories
         map.getPane('overlayPane').style.zIndex = 250; //travel paths
         map.createPane('pathmarker').style.zIndex = 275; //path icons
-        map.createPane('zonelabel').style.zIndex = 290; //TC zone labels
         map.createPane('systems').style.zIndex = 300; //basic systems
         map.createPane('hubsystem').style.zIndex = 325; //hub/capital systems
         map.createPane('hublabel').style.zIndex = 350; //hub/capital system labels
+        map.createPane('zonelabel').style.zIndex = 360; //TC zone labels
         // map.getPane('markerPane').style.zIndex = 375; //rss icons, hostile icons
         // map.createPane('highlight').style.zIndex = 400; //armada highlight circles, other misc gb highlights
         map.getPane('tooltipPane').style.zIndex = 425; //basic system labels, armada strength labels
@@ -315,6 +315,9 @@ STFCMap = (function() {
                 let labelOptions = {permanent: true, direction: 'center', offset: [0, -2], opacity: null, className: "zone-label"};
                 labelOptions.pane = 'zonelabel';
                 var zoneLabel = properties.popupContent.replace("-territory","");
+                if(properties.tier != undefined) {
+                    zoneLabel = `<span class="tier">${"^".repeat(properties.tier)}</span><br/>`+zoneLabel
+                }
                 if(properties.attackDay != undefined) {
                     var time = moment().utc().day(properties.attackDay).hour(properties.attackHour).minute(0)
                     let format = "ddd ha"
@@ -324,6 +327,7 @@ STFCMap = (function() {
                     let iconUrl = icons.other_rss[properties.particle+" Particle"].options.iconUrl;
                     zoneLabel += `<br/><img class="icon rss particle particle-${properties.particle}" src="${iconUrl}" />`
                 }
+
                 // zoneLabel += "<br/>Sun 7pm"
                 ter.bindTooltip(zoneLabel,labelOptions)
             }
@@ -694,16 +698,11 @@ STFCMap = (function() {
             $(".leaflet-pathmarker-pane").removeClass("fade");
         }
 
-        if(zoom < 0) {
+        if(zoom < -0.25) {
             //$(".leaflet-marker-pane").addClass("dim");
             if(!isEditor) {
                 $(".leaflet-overlay-pane").addClass("fade");
             }
-        } else if(zoom < 0) {
-            if(!isEditor) {
-                $(".leaflet-overlay-pane").addClass("fade");
-            }
-            //$(".leaflet-marker-pane").addClass("dim");
         } else {
             $(".leaflet-overlay-pane").removeClass("fade");
             //$(".leaflet-marker-pane").removeClass("dim");
