@@ -1,0 +1,220 @@
+{
+    "type": "FeatureCollection",
+    "name": "travel-paths",
+    "bbox": [
+        -6151,
+        -1741,
+        -2135,
+        1571
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "solustatellun",
+                "className": ""
+            },
+            "bbox": [
+                -5381,
+                -1337,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5381,
+                        -1337
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tellunvinland",
+                "className": ""
+            },
+            "bbox": [
+                -5945,
+                -1291,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5945,
+                        -1291
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "takiktellun",
+                "className": ""
+            },
+            "bbox": [
+                -5734,
+                -1327,
+                -5803,
+                -1558
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5734,
+                        -1327
+                    ],
+                    [
+                        -5803,
+                        -1558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "akertellun",
+                "className": ""
+            },
+            "bbox": [
+                -5940,
+                -1456,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5940,
+                        -1456
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tellunyridia",
+                "className": ""
+            },
+            "bbox": [
+                -5409,
+                -1475,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5409,
+                        -1475
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "maluriatellun",
+                "className": ""
+            },
+            "bbox": [
+                -5734,
+                -1327,
+                -5861,
+                -956
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5734,
+                        -1327
+                    ],
+                    [
+                        -5861,
+                        -956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "murasaki312tellun",
+                "className": ""
+            },
+            "bbox": [
+                -5599,
+                -1737,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5599,
+                        -1737
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cothtellun",
+                "className": ""
+            },
+            "bbox": [
+                -5643,
+                -1222,
+                -5734,
+                -1327
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5643,
+                        -1222
+                    ],
+                    [
+                        -5734,
+                        -1327
+                    ]
+                ]
+            }
+        }
+    ]
+}

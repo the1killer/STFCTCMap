@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "name": "systems",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1642,
+                    -6041
+                ]
+            },
+            "properties": {
+                "name": "Worhundelja",
+                "systemID": 78727,
+                "systemLevel": 9,
+                "warpRequired": 5,
+                "territory": "Independent",
+                "event": "",
+                "stationHub": 0,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "Tritanium",
+                "hostiles": "Battleship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1737,
+                    -5599
+                ]
+            },
+            "properties": {
+                "name": "Murasaki 312",
+                "systemID": 1658720101,
+                "systemLevel": 10,
+                "warpRequired": 6,
+                "territory": "Independent",
+                "event": "",
+                "stationHub": 0,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "Dilithium",
+                "hostiles": "Battleship"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1327,
+                    -5734
+                ]
+            },
+            "properties": {
+                "name": "Tellun",
+                "systemID": 90,
+                "systemLevel": 7,
+                "warpRequired": 5,
+                "territory": "Independent",
+                "event": "",
+                "stationHub": 0,
+                "icon": "capital",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "",
+                "hostiles": "Explorer"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1343,
+                    -6151
+                ]
+            },
+            "properties": {
+                "name": "Kito",
+                "systemID": 78726,
+                "systemLevel": 9,
+                "warpRequired": 5,
+                "territory": "Independent",
+                "event": "",
+                "stationHub": 0,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "Tritanium",
+                "hostiles": "Battleship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1111,
+                    -6118
+                ]
+            },
+            "properties": {
+                "name": "Jinnia",
+                "systemID": 76222,
+                "systemLevel": 9,
+                "warpRequired": 5,
+                "territory": "Independent",
+                "event": "",
+                "stationHub": 1,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "Tritanium",
+                "hostiles": "Battleship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -639,
+                    -4997
+                ]
+            },
+            "properties": {
+                "name": "Van Cleef",
+                "systemID": 409938372,
+                "systemLevel": 29,
+                "warpRequired": 24,
+                "territory": "",
+                "event": "",
+                "stationHub": 0,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "3* Raw Crystal",
+                "hostiles": ""
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -680,
+                    -5073
+                ]
+            },
+            "properties": {
+                "name": "D0D-G",
+                "systemID": 1666924692,
+                "systemLevel": 28,
+                "warpRequired": 24,
+                "territory": "",
+                "event": "",
+                "stationHub": 1,
+                "icon": "",
+                "deepDarkSpace": 0,
+                "uncommonArmadaRange": "",
+                "rareArmadaRange": "",
+                "epicArmadaRange": "",
+                "mines": "",
+                "hostiles": ""
+            }
+        }
+    ]
+}
